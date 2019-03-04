@@ -6,4 +6,4 @@
 
 
 
-* [x] Uva10276 Hanoi Tower Troubles Again!
+* [x] Uva10276 - Hanoi Tower Troubles Again!
