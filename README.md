@@ -1,8 +1,9 @@
-# UVA-1-star
+# UVA
 
 ˊ_>ˋ
 
 2018/9/25 write
 
 
-[x]Uva10276
+
+[x] Uva10276
