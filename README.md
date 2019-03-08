@@ -11,7 +11,7 @@
 * [x] Uva539 - The Settlers of Catan
 * [x] Uva10017 - The Never Ending Towers of Hanoi
 * [ ] Uva1048 - Low Cost Air Travel
-* [ ] Uva1121 - Subsequence
+* [] Uva1121 - Subsequence
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
