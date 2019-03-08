@@ -1,3 +1,6 @@
+// ----------
+// UVa 539 - The Settlers of Catan
+// ----------
 #include <iostream>
 
 using namespace std;
