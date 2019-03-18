@@ -1,7 +1,7 @@
 // ----------
-// 10276 - Hanoi Tower Troubles Again!
-// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1217
-// https://www.udebug.com/UVa/10276
+// 
+// 673 - Parentheses Balance
+// 
 // ----------
 
 #include <bits/stdc++.h>
