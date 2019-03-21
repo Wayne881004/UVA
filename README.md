@@ -13,6 +13,7 @@
 * [ ] Uva1048 - Low Cost Air Travel
 * [x] Uva1121 - Subsequence
 * [x] Uva673 - Parentheses Balance
+* [x] Uva10672 - Marbles on a tree
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
