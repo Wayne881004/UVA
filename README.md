@@ -16,6 +16,7 @@
 * [x] Uva10672 - Marbles on a tree
 * [x] Uva11678 - Cards' Exchange
 * [x] Uva1583 - Digit Generator
+* [x] Uva10420 - List of Conquests
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
