@@ -14,6 +14,8 @@
 * [x] Uva1121 - Subsequence
 * [x] Uva673 - Parentheses Balance
 * [x] Uva10672 - Marbles on a tree
+* [x] Uva11678 - Cards' Exchange
+* [x] Uva1583 - Digit Generator
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
