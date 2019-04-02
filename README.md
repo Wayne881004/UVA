@@ -17,6 +17,7 @@
 * [x] Uva11678 - Cards' Exchange
 * [x] Uva1583 - Digit Generator
 * [x] Uva10420 - List of Conquests
+* [x] Uva10530 - Guessing Game
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
