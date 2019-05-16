@@ -18,6 +18,7 @@
 * [x] Uva1583 - Digit Generator
 * [x] Uva10420 - List of Conquests
 * [x] Uva10530 - Guessing Game
+* [x] Uva11059 - Maximum Product
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
