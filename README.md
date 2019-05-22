@@ -19,6 +19,7 @@
 * [x] Uva10420 - List of Conquests
 * [x] Uva10530 - Guessing Game
 * [x] Uva11059 - Maximum Product
+* [x] Uva10891 - Game of Sum
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
