@@ -21,7 +21,7 @@
 * [x] Uva11059 - Maximum Product
 * [x] Uva10891 - Game of Sum
 ************
-* 2019/5/28 CPE 
+* 2019/5/28 CPE (1/7)
 ************
 * [ ] Uva1594 - Ducci Sequence
 * [ ] Uva10221 - Satellites
