@@ -20,6 +20,7 @@
 * [x] Uva10530 - Guessing Game
 * [x] Uva11059 - Maximum Product
 * [x] Uva10891 - Game of Sum
+* [x] Uva1615 - Highway
 ************
 * 2019/5/28 CPE (1/7)
 ************
