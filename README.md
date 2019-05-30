@@ -20,6 +20,18 @@
 * [x] Uva10530 - Guessing Game
 * [x] Uva11059 - Maximum Product
 * [x] Uva10891 - Game of Sum
+--------------- 
+************
+* 5/28 CPE *
+************
+* [ ] Uva1594 - Ducci Sequence
+* [ ] Uva10221 - Satellites
+* [ ] Uva1056 - Degrees of Separation
+* [ ] Uva12096 - The SetStack Computer
+* [ ] Uva11220 - Decoding the message.
+* [ ] Uva846 - Steps
+* [ ] Uva10810 - Ultra-QuickSort
+---------------
 -------------------------------------------------------------------
 大2下 認真Coding。
                                              BY TLEÜCaptain
