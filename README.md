@@ -24,7 +24,7 @@
 ************
 * 2019/5/28 CPE (1/7)
 ************
-* [ ] Uva1594 - Ducci Sequence
+* [x] Uva1594 - Ducci Sequence
 * [ ] Uva10221 - Satellites
 * [ ] Uva1056 - Degrees of Separation
 * [ ] Uva12096 - The SetStack Computer
