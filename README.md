@@ -20,9 +20,8 @@
 * [x] Uva10530 - Guessing Game
 * [x] Uva11059 - Maximum Product
 * [x] Uva10891 - Game of Sum
---------------- 
 ************
-* 5/28 CPE *
+* 2019/5/28 CPE 
 ************
 * [ ] Uva1594 - Ducci Sequence
 * [ ] Uva10221 - Satellites
