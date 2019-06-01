@@ -7,8 +7,8 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
 
-	freopen("input.in","r",stdin);
-	freopen("output.out","w",stdout);
+// 	freopen("input.in","r",stdin);
+// 	freopen("output.out","w",stdout);
 
 	int Kase;
 	scanf("%d",&Kase);
