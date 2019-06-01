@@ -29,7 +29,7 @@
 * [ ] Uva1056 - Degrees of Separation
 * [ ] Uva12096 - The SetStack Computer
 * [ ] Uva11220 - Decoding the message.
-* [ ] Uva846 - Steps
+* [x] Uva846 - Steps
 * [ ] Uva10810 - Ultra-QuickSort
 ---------------
 -------------------------------------------------------------------
